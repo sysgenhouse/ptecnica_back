@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PtecnicaBackApplication<ptecnica_back>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.linktic.tecnica.ptecnica_back.PtecnicaBackApplication",
+            "projectName": "ptecnica_back",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
